@@ -1,13 +1,5 @@
-==========================================================================================================================
-WARNING: This project is old and unmaintained. I don't have any use for it anymore, if you do, please consider taking over
-==========================================================================================================================
-
-
-
-
-
 =====
-qrlib
+qrlib-rebuilt
 =====
 
 This is a library for QR images generation. It provides functions to
